@@ -1,12 +1,12 @@
-Olá, sou Paula! 👋
+Olá, sou Paulo! 👋
 
-Seja bem-vindo(a) ao meu perfil no GitHub! Sou uma desenvolvedora Full Stack apaixonada por resolver problemas, criar soluções inteligentes e construir experiências digitais impactantes. Aqui você encontrará um pouco do meu trabalho, projetos e habilidades.
+Seja bem-vindo(a) ao meu perfil no GitHub! Sou uma desenvolvedora Full Stack apaixonado por resolver problemas, criar soluções inteligentes e construir experiências digitais impactantes. Aqui você encontrará um pouco do meu trabalho, projetos e habilidades.
 
 🔧 Minhas Habilidades
 
 Front-End
 
-🔗 Linguagens e Tecnologias: HTML5, CSS3, JavaScript (ES6+), React.js, Next.js
+🔗 Linguagens e Tecnologias: HTML5, CSS3, JavaScript (ES6+)e React.js
 
 🎨 Design Responsivo: Foco na criação de interfaces adaptáveis e intuitivas
 
@@ -14,19 +14,17 @@ Front-End
 
 Back-End
 
-🛠️ Linguagens e Frameworks: Node.js, Express.js, Python (Django, Flask)
+🛠️ Linguagens e Frameworks: Node.js, Express.js, 
 
-📊 Banco de Dados: MySQL, PostgreSQL, MongoDB
+📊 Banco de Dados:  PostgreSQL
 
-⚖️ APIs: Criação e consumo de APIs REST e GraphQL
+⚖️ APIs: Criação e consumo de APIs REST 
 
 DevOps e Outras Ferramentas
 
 🎮 Versionamento de Código: Git, GitHub
 
-🛡️ Containerização: Docker
-
-🚀 Deploy: Vercel, Netlify, Heroku
+🚀 Deploy: Vercel
 
 📊 Metodologias: Agile, Scrum
 
@@ -40,17 +38,7 @@ Trabalhar em equipe e valorizar a comunicação
 
 Estar em constante aprendizado para acompanhar novas tecnologias
 
-📚 Projetos Destacados
-
-Projeto X
-
-Um aplicativo completo que conecta pessoas e soluciona problemas reais. Desenvolvido com React.js e Node.js, implementando autenticação JWT e um sistema de banco de dados eficiente.
-
-Projeto Y
-
-Sistema de e-commerce responsivo e acessível, criado com Next.js e MongoDB. Foco na experiência do usuário e alto desempenho.
-
-Veja mais no repositório Portfólio Completo.
+Veja meu portifolio em : https://portifolio-theta-indol.vercel.app/
 
 🙌 Vamos Trabalhar Juntos?
 
