@@ -36,9 +36,15 @@
 ## 📊 Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulo-github-username&show_icons=true&theme=radical&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-github-username&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paulinhouy&show_icons=true&theme=radical&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinhouy&layout=compact&theme=radical" />
 </p>
+
+<!-- Snake animation -->
+<p align="center">
+  <img src="https://github.com/paulinhouy/paulinhouy/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
 
 ---
 ## 🧠 Interesses atuais
