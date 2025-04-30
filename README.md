@@ -41,6 +41,8 @@
 </p>
 
 ---
+![Snake animation](https://github.com/paulo-github-username/paulo-github-username/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 🔗 Conecte-se comigo
 
