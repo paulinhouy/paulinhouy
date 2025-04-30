@@ -44,7 +44,7 @@
 <p align="left">
   <a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/seuperfil/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@seucanal"><img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white" /></a>
+
 </p>
 
 ---
