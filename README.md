@@ -7,9 +7,9 @@
 
 ## 🧠 Sobre mim
 
-- 🎓 Estudante de Engenharia de Software, focado em sistemas de alto desempenho
+- 🎓 Estudante de Análise e desenvolvimento de sistemas, focado em sistemas de alto desempenho
 - ☁️ Preparando a certificação **AWS Cloud Practitioner**
-- 💼 Buscando oportunidades como **Jovem Aprendiz Tech**
+- 💼 Buscando oportunidades como **Estágio Tech**
 - 🧪 Explorando arquitetura de software, DevOps e cloud
 - 🎥 Criador de conteúdo no YouTube sobre tecnologia, animes e música
 
