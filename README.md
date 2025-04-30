@@ -32,11 +32,12 @@
 
 
 ---
+## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paulinhouy/paulinhouy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paulinhouy&show_icons=true&theme=radical&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinhouy&layout=compact&theme=radical" />
 </p>
-
 
 
 
