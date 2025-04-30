@@ -41,7 +41,11 @@
 </p>
 
 ---
-![Snake animation](https://github.com/paulo-github-username/paulo-github-username/blob/output/github-contribution-grid-snake.svg)
+## 🧠 Interesses atuais
+- 🕸️ Desenvolvimento de aplicações web
+- ☁️ Cloud computing e arquitetura em nuvem (AWS)
+- ⚙️ Otimização e escalabilidade de sistemas
+
 
 
 ## 🔗 Conecte-se comigo
