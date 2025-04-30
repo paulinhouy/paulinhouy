@@ -18,15 +18,18 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E" />
-  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933" />
-  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
-  <img src="https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=000000" />
-  <img src="https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=FF9900" />
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Code-Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/VersionControl-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Package-npm-CB3837?style=flat&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=flat&logo=react&logoColor=black" />
 </p>
+
 
 ---
 
