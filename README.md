@@ -33,11 +33,10 @@
 
 ---
 
-## 🗓️ Contribuições Recentes
-
 <p align="center">
-  <img src="https://github.com/paulinhouy/paulinhouy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/paulinhouy/paulinhouy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
 
 
