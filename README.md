@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Paulo | Full Stack Developer</h1>
 <p align="center">
-  Construindo soluções performáticas com foco em alta escalabilidade. Apaixonado por tecnologia, aprendizado contínuo e cloud computing ☁️
+ Apaixonado por tecnologia, aprendizado contínuo e cloud computing ☁️
 </p>
 
 ---
@@ -10,7 +10,7 @@
 - 🎓 Estudante de Análise e desenvolvimento de sistemas, focado em sistemas de alto desempenho
 - ☁️ Preparando a certificação **AWS Cloud Practitioner**
 - 💼 Buscando oportunidades como **Estágio Tech**
-- 🧪 Explorando arquitetura de software, DevOps e cloud
+- 🧪 Explorando arquitetura de software, IA e cloud
 - 🎥 Criador de conteúdo no YouTube sobre tecnologia, animes e música
 
 ---
@@ -43,7 +43,7 @@
 
 ---
 ## 🧠 Interesses atuais
-- 🕸️ Desenvolvimento de aplicações web
+- 🕸️ Desenvolvimento de aplicações web E agentes IA
 - ☁️ Cloud computing e arquitetura em nuvem (AWS)
 - ⚙️ Otimização e escalabilidade de sistemas
 
