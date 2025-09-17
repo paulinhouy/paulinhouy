@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Paulo | Full Stack Developer</h1>
+<h1 align="center">👨‍💻 Paulo </h1>
 <p align="center">
  Apaixonado por tecnologia, aprendizado contínuo e cloud computing ☁️
 </p>
